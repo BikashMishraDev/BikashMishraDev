@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MongoDB, Node.js, Express.js**
 
-- 📫 How to reach me: **[bikash26041999@gmail.com](mailto:bikash26041999@gmail.com)**
+- 📫 How to reach me: **[bikash26041999@gmail.com](mailto:bikashmishra.dev@gmail.com)**
 
 - 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/15mjLEqY72V3xjtnf1vuT6KygyWCcGIPT/view)
 
