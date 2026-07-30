@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **[bikash26041999@gmail.com](mailto:bikashmishra.dev@gmail.com)**
 
-- 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/15mjLEqY72V3xjtnf1vuT6KygyWCcGIPT/view)
+- 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/1KgJ6ieFhPPOf4D47J9SgCn5d7ealfRcy/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
