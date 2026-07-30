@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hello 👋, I'm Bikash Mishra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
